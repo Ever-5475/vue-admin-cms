@@ -133,4 +133,4 @@ Visit http://localhost:9528
 
 ---
 
-*Built with ❤️ using Vue.js + Flask*
+*Built with ❤️ using Vue.js + Flask*+ MYSQL

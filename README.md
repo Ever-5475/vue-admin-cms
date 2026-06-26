@@ -2,6 +2,9 @@
 
 > A modern full-stack content management system built with Vue.js 2 + Element UI and Flask + MySQL
 
+**Authors**: [Ever-5475](https://github.com/Ever-5475) & [XJW-051226](https://github.com/XJW-051226) & [CodeGlow-coder](https://github.com/CodeGlow-coder)
+
+
 [中文文档](README-zh.md)
 
 ## Screenshots
